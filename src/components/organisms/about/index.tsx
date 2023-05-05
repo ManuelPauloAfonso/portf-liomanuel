@@ -13,10 +13,11 @@ function About() {
       <div className="md:w-1/2">
         <h1 className="text-3xl font-bold mb-4">Sobre Mim</h1>
         <p className="text-lg">
-          Front-end developer with a keen eye for detail and a determination to
-          deliver the highest quality. I am very proud of my work and I always
-          try to improve myself with each project I work on. The main areas of
-          my expertise are HTML(5), CSS(3), JavaScript , ReactJs ..
+          Desenvolvedor front-end com atenção aos detalhes e determinação para
+          entregar a mais alta qualidade. Tenho muito orgulho do meu trabalho e
+          procuro sempre me aprimorar a cada projeto que desenvolvo. As
+          principais áreas de especialização são HTML(5), CSS(3), JavaScript ,
+          ReactJs ..
         </p>
         <div className="mt-5">
           <Button title="my blog" />

@@ -3,6 +3,7 @@ import Banner from "@/components/organisms/banner";
 import Projects from "@/components/organisms/projects";
 import About from "@/components/organisms/about";
 import Experencie from "@/components/organisms/experencie";
+import WhatsAppButton from "@/components/atomics/whatssapp";
 
 export default function Home() {
   return (

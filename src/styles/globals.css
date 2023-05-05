@@ -2,4 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.hover-scale {
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+    transform-origin: center;
+}
 
+.hover-scale:hover {
+    transform: scale(1.1);
+}
