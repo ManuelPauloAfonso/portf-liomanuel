@@ -4,7 +4,7 @@ import Image from "next/image";
 
 function Projects() {
   return (
-    <div className="flex   gap-8 mt-20">
+    <div id="projects" className="flex   gap-8 mt-20">
       {ProjeCard.map((item) => (
         <div className="rounded overflow-hidden shadow-lg" key={item.id}>
           <Image

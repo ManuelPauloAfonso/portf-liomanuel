@@ -4,7 +4,10 @@ import Button from "@/components/atomics/button";
 
 function About() {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center mt-20">
+    <div
+      id="about"
+      className="flex flex-col md:flex-row items-center justify-center mt-20"
+    >
       <Image
         src={manuel}
         alt="manuel"
